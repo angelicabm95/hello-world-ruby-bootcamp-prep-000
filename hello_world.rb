@@ -1,4 +1,4 @@
 hello_world
-"RUBY_VERSION
+"ruby
 puts"Hello World!"
 "

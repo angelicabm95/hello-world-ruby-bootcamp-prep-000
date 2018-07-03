@@ -1,2 +1,3 @@
 hello_world
-"puts"
+"RUBY_VERSION
+puts"
